@@ -88,7 +88,7 @@ extension WorkoutViewController {
         }
 
         //increment counter
-        pushupsCompleted++
+        pushupsCompleted += 1
 
         //speak progress
         Utilities.speakUtterance(String(pushupsCompleted))
