@@ -1,5 +1,5 @@
 # Summit for SW Engineers - iOS
-Capital One Software Engineering Summit (May 2016) - iOS Tech Talk Code
+### Capital One Software Engineering Summit (May 2016) - iOS Tech Talk Code
 
 Steps to get started (caveat: you must have a Mac for iOS development):
 - In your terminal, navigate to a directory of your choosing, then run the following: 
@@ -8,3 +8,5 @@ Steps to get started (caveat: you must have a Mac for iOS development):
 - Download [Xcode 7.3](https://developer.apple.com/xcode/download/)
 - Open the `pushups.xcworkspace`, simply typing `$ open pushups.xcworkspace` will handle this once you've downloaded Xcode.
 - Run the project in the simulator -- the keyboard shortcut `cmd + r` will do this for you.
+
+For more information on the app, read the README, [here](https://github.com/austinlamon/summit-sw-engineers-may16/tree/master/ios-pushup-tracker).
